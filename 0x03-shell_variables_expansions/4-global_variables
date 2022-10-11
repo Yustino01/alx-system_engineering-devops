@@ -1,2 +1,2 @@
-#!/bin/bas
-echo 'printenv'
+#!/bin/bash
+echo "printenv"
